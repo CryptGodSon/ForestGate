@@ -48,6 +48,10 @@ python adventure_game.py
 - `join_multiplayer_game()`: Displays an error message indicating the need for an internet connection to join a multiplayer game.
 - `back_to_main_menu()`: Resets the game state and returns to the main menu.
 
+
+## Screenshots 
+![Zrzut ekranu 2023-06-29 010215](https://github.com/CryptGodSon/ForestGate/assets/106864633/e8ebb526-8d77-4e31-b50c-58dbae433a32)
+
 ## Credits
 This game was created by CryptGodSon. To learn more about the creator, you can visit their [GitHub profile](https://github.com/CryptGodSon
 
