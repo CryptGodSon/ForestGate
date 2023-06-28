@@ -50,7 +50,7 @@ python adventure_game.py
 
 
 ## Screenshots 
-![Zrzut ekranu 2023-06-29 010215](https://github.com/CryptGodSon/ForestGate/assets/106864633/e8ebb526-8d77-4e31-b50c-58dbae433a32)
+![111111111111](https://github.com/CryptGodSon/ForestGate/assets/106864633/7616f2e3-44b5-458b-8ec0-707ede339e1f)
 
 ## Credits
 This game was created by CryptGodSon. To learn more about the creator, you can visit their [GitHub profile](https://github.com/CryptGodSon
