@@ -50,3 +50,9 @@ python adventure_game.py
 
 ## Credits
 This game was created by CryptGodSon. To learn more about the creator, you can visit their [GitHub profile](https://github.com/CryptGodSon
+
+## License
+
+This project is licensed under the [MIT License](LICENSE).
+
+Feel free to contribute to the project by creating pull requests or submitting issues for any improvements or bug fixes.
